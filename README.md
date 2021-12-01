@@ -4,3 +4,5 @@
 Execution Evironemnt: MASM and Visual Studio 2010.
 Please follow setup instructions here: http://kipirvine.com/asm/gettingStartedVS2010/index.htm
 
+See MASM.pdf to set up your environment.
+
